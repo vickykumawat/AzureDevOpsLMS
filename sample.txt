@@ -1,2 +1,4 @@
 Add 1st line in the file
 Adding second line in the file
+Adding 3rd line in file in master branch
+
